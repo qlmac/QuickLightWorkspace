@@ -1,13 +1,13 @@
 # QuickLight Workspace 官方下载与更新
 
-当前版本：**1.1.3（113）**。支持 Apple Silicon / Intel，要求 macOS 14.0 或更新版本，包含 9 种语言。
+当前版本：**1.1.4（114）**。支持 Apple Silicon / Intel，要求 macOS 14.0 或更新版本，包含 9 种语言。
 
-- [下载 DMG 安装包](https://github.com/qlmac/QuickLightWorkspace/releases/download/v1.1.3/QuickLightWorkspace-1.1.3-113-Universal.dmg)
-- [下载备用 ZIP](https://github.com/qlmac/QuickLightWorkspace/releases/download/v1.1.3/QuickLightWorkspace-1.1.3-113-Universal.zip)
-- [SHA-256 校验和](https://github.com/qlmac/QuickLightWorkspace/releases/download/v1.1.3/QuickLightWorkspace-1.1.3-113-Universal-SHA256SUMS.txt)
-- [升级说明](https://github.com/qlmac/QuickLightWorkspace/blob/main/QuickLightWorkspace-1.1.3-113-Universal.md)
+- [下载 DMG 安装包](https://github.com/qlmac/QuickLightWorkspace/releases/download/v1.1.4/QuickLightWorkspace-1.1.4-114-Universal.dmg)
+- [下载备用 ZIP](https://github.com/qlmac/QuickLightWorkspace/releases/download/v1.1.4/QuickLightWorkspace-1.1.4-114-Universal.zip)
+- [SHA-256 校验和](https://github.com/qlmac/QuickLightWorkspace/releases/download/v1.1.4/QuickLightWorkspace-1.1.4-114-Universal-SHA256SUMS.txt)
+- [升级说明](https://github.com/qlmac/QuickLightWorkspace/blob/main/QuickLightWorkspace-1.1.4-114-Universal.md)
 
-本次更新补充启动后的静默检查和应用菜单“自动检查更新”开关。默认开启自动检查，常驻时每 24 小时检查；保留此前关闭自动检查的选择。仅发现新版时提醒，下载与安装重启均由用户确认，不自动下载或安装。
+本次更新在会员授权页新增“授权数量”，合并显示服务器验签确认的可授权与已授权数量；同步九种语言的授权、开机启动和模板备份文字。继续保留启动自动检查，仅发现新版时提醒，下载与安装重启均由用户确认。
 
 继续使用 QuickLightWorkspace 升级源，旧 QLLaunch 入口仍可更新。旧版如未启用自动检查，请手动检查并升级一次，或下载完整安装包安装。保留九语言界面与同窗升级流程，进度使用真实下载字节与解压回调。
 
