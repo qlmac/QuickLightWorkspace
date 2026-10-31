@@ -2,9 +2,9 @@
 
 当前版本：**1.1.3（113）**。支持 Apple Silicon / Intel，要求 macOS 14.0 或更新版本，包含 9 种语言。
 
-- [下载 DMG 安装包](https://raw.githubusercontent.com/qlmac/QuickLightWorkspace/main/QuickLightWorkspace-1.1.3-113-Universal.dmg)
-- [下载备用 ZIP](https://raw.githubusercontent.com/qlmac/QuickLightWorkspace/main/QuickLightWorkspace-1.1.3-113-Universal.zip)
-- [SHA-256 校验和](https://raw.githubusercontent.com/qlmac/QuickLightWorkspace/main/QuickLightWorkspace-1.1.3-113-Universal-SHA256SUMS.txt)
+- [下载 DMG 安装包](https://github.com/qlmac/QuickLightWorkspace/releases/download/v1.1.3/QuickLightWorkspace-1.1.3-113-Universal.dmg)
+- [下载备用 ZIP](https://github.com/qlmac/QuickLightWorkspace/releases/download/v1.1.3/QuickLightWorkspace-1.1.3-113-Universal.zip)
+- [SHA-256 校验和](https://github.com/qlmac/QuickLightWorkspace/releases/download/v1.1.3/QuickLightWorkspace-1.1.3-113-Universal-SHA256SUMS.txt)
 - [升级说明](https://github.com/qlmac/QuickLightWorkspace/blob/main/QuickLightWorkspace-1.1.3-113-Universal.md)
 
 本次更新补充启动后的静默检查和应用菜单“自动检查更新”开关。默认开启自动检查，常驻时每 24 小时检查；保留此前关闭自动检查的选择。仅发现新版时提醒，下载与安装重启均由用户确认，不自动下载或安装。
@@ -17,4 +17,6 @@
 
 Gitee 更新源更适合中国线路；GitHub 可作为备用源。
 
-本仓库仅保存公开下载、更新清单和发布说明，不保存源码、用户配置、私钥或证书。联系邮箱：admin@qlmf.com。
+本仓库仅保存公开下载、更新清单和发布说明，不保存源码、用户配置、私钥或证书。联系邮箱：h1393505@gmail.com。
+
+正式安装包通过 Releases 分发，仅保留最新版和上一版。每次新版上传并完成匿名下载、完整校验及新旧升级清单验证后，才清理更早的正式发行版。旧 QLLaunch 升级清单地址持续保留。

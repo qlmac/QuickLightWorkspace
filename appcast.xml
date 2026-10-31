@@ -13,7 +13,7 @@
             <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/qlmac/QuickLightWorkspace/main/QuickLightWorkspace-1.1.3-113-Universal.md</sparkle:releaseNotesLink>
-            <enclosure url="https://raw.githubusercontent.com/qlmac/QuickLightWorkspace/main/QuickLightWorkspace-1.1.3-113-Universal.zip" length="58589239" type="application/octet-stream" sparkle:edSignature="FtrbjIfygW0qxFZbLl/rW/epvAfTzFx+IA0MT6KnzX4gIjSafnd69pBGBtEjkywhy7UW8ZgUOyYFU8cBSUGiCA=="/>
+            <enclosure url="https://github.com/qlmac/QuickLightWorkspace/releases/download/v1.1.3/QuickLightWorkspace-1.1.3-113-Universal.zip" length="58589239" type="application/octet-stream" sparkle:edSignature="FtrbjIfygW0qxFZbLl/rW/epvAfTzFx+IA0MT6KnzX4gIjSafnd69pBGBtEjkywhy7UW8ZgUOyYFU8cBSUGiCA=="/>
         </item>
     </channel>
 </rss>
