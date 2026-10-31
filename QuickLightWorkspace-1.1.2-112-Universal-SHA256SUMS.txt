@@ -1,2 +1,0 @@
-ca27513f37058205a6966a5b858ab8cdb235ed75b86daffdb4bff9c09d43ae53  QuickLightWorkspace-1.1.2-112-Universal.dmg
-53637e107d211cf6e1481f1496982fdd268733709d60707da3778bc52e39a831  QuickLightWorkspace-1.1.2-112-Universal.zip
