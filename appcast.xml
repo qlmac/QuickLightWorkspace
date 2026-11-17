@@ -3,14 +3,14 @@
     <channel>
         <title>轻量工作台</title>
         <item>
-            <title>1.1.5</title>
-            <pubDate>Tue, 17 Nov 2026 12:34:30 +0800</pubDate>
+            <title>1.1.6</title>
+            <pubDate>Tue, 17 Nov 2026 19:56:12 +0800</pubDate>
             <link>https://github.com/qlmac/QuickLightWorkspace</link>
-            <sparkle:version>115</sparkle:version>
-            <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
+            <sparkle:version>116</sparkle:version>
+            <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://github.com/qlmac/QuickLightWorkspace/releases/download/v1.1.5-115/QuickLightWorkspace-1.1.5-115-Universal.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/qlmac/QuickLightWorkspace/releases/download/v1.1.5-115/QuickLightWorkspace-1.1.5-115-Universal.zip" length="60585059" type="application/octet-stream" sparkle:edSignature="L+Cy8sLUQ8WNzEea8mv0u6LksKcEy7/fwQztQKU6mbCCkfsiU30b1i8RwHc8aYO0ztu85MM4vV2IAfAIf7S/Cw=="/>
+            <sparkle:releaseNotesLink>https://github.com/qlmac/QuickLightWorkspace/releases/download/v1.1.6-116/QuickLightWorkspace-1.1.6-116-Universal.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/qlmac/QuickLightWorkspace/releases/download/v1.1.6-116/QuickLightWorkspace-1.1.6-116-Universal.zip" length="60679916" type="application/octet-stream" sparkle:edSignature="tIrQYe0WCBp4pp0sP+xBZzkTM0lcvshkPW5dOFHM1UBUNOaMoyDjNGWYi9HRT9ZNNWpjIB+s5MtFu2kjDRbCAw=="/>
         </item>
     </channel>
 </rss>
